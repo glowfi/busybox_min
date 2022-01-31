@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 ### Dependencies
-# bc musl kernel-headers-musl cpio
+# bc musl kernel-headers-musl cpio qemu
 
 # Create directories
 mkdir -p src
