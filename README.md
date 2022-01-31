@@ -19,5 +19,5 @@
 ```sh
 git clone https://github.com/glowfi/busybox_min
 cd busybox_min
-run.sh
+./run.sh
 ```
